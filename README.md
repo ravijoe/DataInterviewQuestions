@@ -12,6 +12,9 @@ mine only and may or may not even be correct.
 have the data for the problem I will leave a marker, the intention being to fill
 the details in later if I manage to get hold of it.
 
+answers to few questions https://github.com/nabaskes/InterviewQs
+
+
 ## Questions
 
   * [Question 1 - Fradulent retail accounts](./q_001/README.md)
